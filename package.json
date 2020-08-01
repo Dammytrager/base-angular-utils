@@ -1,0 +1,13 @@
+{
+  "name": "base-angular-utils",
+  "version": "1.0.0",
+  "dependencies": {
+    "@angular/forms": "~7.0.0"
+  },
+  "authors": [
+    {
+      "email": "damilaremalomo@gmail.com",
+      "name": "Malomo Damilare"
+    }
+  ]
+}
